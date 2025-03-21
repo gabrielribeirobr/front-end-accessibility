@@ -1,5 +1,5 @@
 Por que esse código é acessível?
-- Usa HTML semântico (<button>, <ul>, <li>, <a>).
+- Usa HTML semântico <xmp>(<button>, <ul>, <li>, <a>)</xmp>.
 - O botão tem aria-expanded para indicar se o menu está aberto ou fechado.
 - O menu usa aria-hidden para ocultá-lo corretamente de leitores de tela.
 - Pode ser navegado pelo teclado (com a tecla Tab e Enter).
