@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: steelblue;
+}
+#menu {
+    margin-top: 15px;
+    border-radius: 15px;
+    display: none;
+    background: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 200px;
+}
+
+button{
+    border-radius: 10px;
+}
+#menu[aria-hidden="false"] {
+    display: block;
+}
